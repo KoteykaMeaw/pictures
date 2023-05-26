@@ -66,4 +66,4 @@ async def fox(ctx):
     '''По команде fox вызывает функцию get_fox_image_url'''
     image_url = get_fox_image_url()
     await ctx.send(image_url)
-bot.run('MTEwNDY3Mzc3MDQxMDYyNzEwMg.GrN6gi.E62bEgCyqh8Ftwf4nwVP6bcV9FiaE3jNyx4nZI')
+bot.run('token')
